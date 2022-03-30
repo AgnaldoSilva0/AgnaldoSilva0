@@ -1,9 +1,5 @@
 ## Olá ✌️
 
-[![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/7LGCFDGLZRSGB1)
-[![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](AgnaldoSilva™#2594)
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=1pfkv3e81r68p&utm_content=ty04q7)
-
 ![AgnaldoSilva0 GitHub stats](https://github-readme-stats.vercel.app/api?username=AgnaldoSilva0&show_icons=true&theme=radical)
 
 ### Tecnologias
@@ -17,6 +13,10 @@
 </div><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgnaldoSilva0&layout=compact)](https://github.com/AgnaldoSilva0/github-readme-stats)
+
+[![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/7LGCFDGLZRSGB1)
+[![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](AgnaldoSilva™#2594)
+[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=1pfkv3e81r68p&utm_content=ty04q7)
 
 ### Se orgulhe de onde começou (Básico do Simples)
 
