@@ -2,7 +2,7 @@
 
 ![AgnaldoSilva0 GitHub stats](https://github-readme-stats.vercel.app/api?username=AgnaldoSilva0&show_icons=true&theme=radical)
 
-#### - Emissor de CTE FREE com todos os eventos, cadastro de empresas, carregamento de NFe... (Disponibilização para fins de testes, podendo usar em produção e com direito a sugerir melhorias que agrade individualmente para fins de desenvolvimento e conhecimento. :) (Apenas Rodoviário)
+#### - Emissor de CTE FREE com todos os eventos, cadastro de empresas, carregamento de NFe... (Disponibilização para fins de testes, podendo usar em produção e com direito a sugerir melhorias que agrade individualmente para fins de desenvolvimento e conhecimento.  :) (Apenas Rodoviário)
 
 ### Tecnologias
 
