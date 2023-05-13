@@ -1,9 +1,5 @@
 ## Olá ✌️
 
-![AgnaldoSilva0 GitHub stats](https://github-readme-stats.vercel.app/api?username=AgnaldoSilva0&show_icons=true&theme=radical)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AgnaldoSilva0)](https://github.com/AgnaldoSilva0/github-readme-stats)
-
 #### - Emissor de CTE FREE com todos os eventos, cadastro de empresas, carregamento de NFe... (Disponibilização para fins de testes, podendo usar em produção e com direito a sugerir melhorias que agrade individualmente para fins de desenvolvimento e conhecimento.  :) (Apenas Rodoviário)
 
 ### Tecnologias
