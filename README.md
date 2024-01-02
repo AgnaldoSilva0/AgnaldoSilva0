@@ -1,11 +1,10 @@
 ## Olá ✌️
 
-![AgnaldoSilva0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AgnaldoSilva0&theme=vue-dark&hide_border=true)
+![AgnaldoSilva0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AgnaldoSilva0&theme=default&hide_border=false)
 
 #### - Emissor de CTE FREE com todos os eventos, cadastro de empresas, carregamento de NFe... (Disponibilização para fins de testes e conhecimento. :) (Apenas Rodoviário)
 
-### Tecnologias
-
+### Tecnologias e Ferramentas
 <div style="display: inline_block"><br/>
 <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
@@ -16,6 +15,9 @@
 <img align="center" alt="Azure Devops" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
 <img align="center" alt="Azure Devops" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
 </div><br/>
+
+### Em fase de estudos
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgnaldoSilva0&layout=compact)](https://github.com/AgnaldoSilva0/github-readme-stats)
 
