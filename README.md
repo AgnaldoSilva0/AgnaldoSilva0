@@ -1,8 +1,8 @@
 ## Olá ✌️
 
-![AgnaldoSilva0 GitHub stats](https://github-readme-stats.vercel.app/api?username=AgnaldoSilva0&show_icons=true&theme=radical)
+![AgnaldoSilva0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AgnaldoSilva0&theme=vue-dark&hide_border=true)
 
-#### - Emissor de CTE FREE com todos os eventos, cadastro de empresas, carregamento de NFe... (Disponibilização para fins de testes, podendo usar em produção e com direito a sugerir melhorias que agrade individualmente para fins de desenvolvimento e conhecimento.  :) (Apenas Rodoviário)
+#### - Emissor de CTE FREE com todos os eventos, cadastro de empresas, carregamento de NFe... (Disponibilização para fins de testes e conhecimento. :) (Apenas Rodoviário)
 
 ### Tecnologias
 
@@ -12,6 +12,9 @@
 <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img align="center" alt="SQLITE" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img align="center" alt="Azure Devops" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+<img align="center" alt="Azure Devops" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
 </div><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgnaldoSilva0&layout=compact)](https://github.com/AgnaldoSilva0/github-readme-stats)
@@ -20,7 +23,7 @@
 [![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](AgnaldoSilva™#2594)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=1pfkv3e81r68p&utm_content=ty04q7)
 
-### Primeiros Projetos Humildamente
+### Primeiros Projetos
 
  - [Primeiro Programa Faculdade - JAVA](https://github.com/AgnaldoSilva0/SoftPetropolis)<br/>
  - [Primeiro Projeto - JAVA](https://github.com/AgnaldoSilva0/Catalogo_Pontual)<br/>
