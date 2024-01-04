@@ -1,5 +1,11 @@
 ## Olá ✌️
 
+💙 Desenvolvedor .Net
+
+💻 Experiência em Automação Comercial
+
+❄️ Apoiador em projetos open source
+
 ![AgnaldoSilva0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AgnaldoSilva0&theme=default&hide_border=false)
 
 #### - Emissor de CTE FREE com todos os eventos, cadastro de empresas, carregamento de NFe... (Disponibilização para fins de testes e conhecimento. :) (Apenas Rodoviário)
@@ -20,6 +26,9 @@
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/7LGCFDGLZRSGB1)
 [![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](AgnaldoSilva™#2594)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=1pfkv3e81r68p&utm_content=ty04q7)
+
+### Estudando
+<img align="center" alt=".NET Maui" src="https://camo.githubusercontent.com/3894b65dd87f45181a66c414607c27863a36f33065d37a640128edc789293809/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d4155492d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d646f746e6574"/>
 
 ### Primeiros Projetos
 
