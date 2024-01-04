@@ -15,9 +15,6 @@
 <img align="center" alt="Azure Devops" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
 </div><br/>
 
-### Em fase de estudos
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgnaldoSilva0&layout=compact)](https://github.com/AgnaldoSilva0/github-readme-stats)
 
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/7LGCFDGLZRSGB1)
